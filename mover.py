@@ -4,7 +4,7 @@ from std_msgs.msg import String
 from geometry_msgs.msg import Twist
 from sensor_msgs.msg import LaserScan
 
-class Mover:
+class Mover: #hi
     """
     A very simple Roamer implementation for Thorvald.
     It simply goes straight until any obstacle is within
